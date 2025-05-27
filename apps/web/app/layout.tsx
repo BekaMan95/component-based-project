@@ -25,17 +25,17 @@ export default function RootLayout({
                 Creative Dashboard
               </Link>
               <div className="space-x-4">
-                <Link href="/item1" className="text-gray-600 hover:text-gray-900">
-                  Item 1
+                <Link href="/dashboard" className="text-gray-600 hover:text-gray-900">
+                  Dashboard
                 </Link>
-                <Link href="/item2" className="text-gray-600 hover:text-gray-900">
-                  Item 2
+                <Link href="/analytics" className="text-gray-600 hover:text-gray-900">
+                  Analytics
                 </Link>
-                <Link href="/item3" className="text-gray-600 hover:text-gray-900">
-                  Item 3
+                <Link href="/team" className="text-gray-600 hover:text-gray-900">
+                  Team
                 </Link>
-                <Link href="/item4" className="text-gray-600 hover:text-gray-900">
-                  Item 4
+                <Link href="/profile" className="text-gray-600 hover:text-gray-900">
+                  Profile
                 </Link>
               </div>
             </div>
