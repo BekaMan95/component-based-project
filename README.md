@@ -1,4 +1,8 @@
-# shadcn/ui monorepo template
+# Creative Dashboard App
+
+---
+
+## shadcn/ui monorepo template
 
 This template is for creating a monorepo with shadcn/ui.
 
@@ -29,3 +33,16 @@ To use the components in your app, import them from the `ui` package.
 ```tsx
 import { Button } from "@workspace/ui/components/button"
 ```
+
+---
+
+# Group Members
+| **Name**           | **ID** |
+|-------------------|----------|
+| Nehemiah Aklil    | UGR/22581/13 |
+| Roza mekete       | UGR/23406/13 |
+| Gezahegn Gulilat  | UGR/22707/13 |
+| Ameha Seyoum      | UGR/22559/13 |
+| Bereket Sahle     | UGR/22992/13 |
+
+---
