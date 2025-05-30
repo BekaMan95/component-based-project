@@ -44,5 +44,6 @@ import { Button } from "@workspace/ui/components/button"
 | Gezahegn Gulilat  | UGR/22707/13 |
 | Ameha Seyoum      | UGR/22559/13 |
 | Bereket Sahle     | UGR/22992/13 |
+| Abel Girma        | UGR/23683/13 |
 
 ---
