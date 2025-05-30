@@ -6,7 +6,7 @@ import "@workspace/ui/globals.css"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Component Demo App",
+  title: "Creative Dashboard App",
   description: "A demo app showcasing component-based development with Next.js and shadcn/ui",
 }
 
